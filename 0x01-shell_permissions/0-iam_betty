@@ -1,2 +1,2 @@
-sudo useradd -m -s /bin/bash betty
-sudo -i -u betty
+#!/bin/bash
+sudo -u betty bash
