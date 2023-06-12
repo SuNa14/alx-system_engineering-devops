@@ -1,4 +1,5 @@
 #/bin/bash
+chmod u+x ls /alx*s/0x02* -Art | tail -1
 git add .
 git commit -m ":sparkles:"
 git push
